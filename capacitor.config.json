@@ -1,0 +1,8 @@
+{
+  "appId": "com.delishworks.selahsecretary",
+  "appName": "Selah Secretary",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  }
+}
